@@ -3,3 +3,5 @@ Change 2
 Change 3
 Another change in develop
 Hotfix change
+Release change 1
+Release change 2
